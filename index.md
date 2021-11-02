@@ -5,6 +5,6 @@
 This is my [Progress Journal Website](https://bu-ie-582.github.io/fall21-melikenursener/) created for IE582 course at Bogazici University.
 
 # Homework 1
-[Task1](https://bu-ie-582.github.io/fall21-melikenursener/HW1/HW1%20-%20Task1.html) file of Homework 1.
+[Task1](https://bu-ie-582.github.io/fall21-melikenursener/HW1/HW1-Task1.html) file of Homework 1.
 [Task2](https://bu-ie-582.github.io/fall21-melikenursener/HW1/HW1%20-%20Task2.html) file of Homework 1.
 

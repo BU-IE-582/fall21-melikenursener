@@ -9,8 +9,7 @@ This is my [Progress Journal Website](https://bu-ie-582.github.io/fall21-meliken
 
 # Homework 1
 [Description of Homework 1](https://bu-ie-582.github.io/fall21-melikenursener/Homework%20Files/Homework%201/IE582_Fall21_Homework1.pdf)
-[Task1](https://bu-ie-582.github.io/fall21-melikenursener/HW1/HW1-Task1.html) file of Homework 1.
-[Task2](https://bu-ie-582.github.io/fall21-melikenursener/HW1/HW1%20-%20Task2.html) file of Homework 1.
+[Here] is the Jupyter Notebook file for the Homework 1.(https://bu-ie-582.github.io/fall21-melikenursener/Homework%201.html)
 
 # Homework 2
 [Description of Homework 2](https://bu-ie-582.github.io/fall21-melikenursener/Homework%20Files/Homework%202/IE582_Fall21_Homework2.pdf)

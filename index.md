@@ -16,4 +16,4 @@ This is my [Progress Journal Website](https://bu-ie-582.github.io/fall21-meliken
 ## [Here](https://bu-ie-582.github.io/fall21-melikenursener/Homework%20Files/Homework%202/Homework%202.html) is the Jupyter Notebook file for the Homework 2.
 
 # Homework 3
-## [Description of Homework 3]
+## [Description of Homework 3](https://bu-ie-582.github.io/fall21-melikenursener/Homework%20Files/Homework%203/IE582_Fall21_Homework3.pdf)

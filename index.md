@@ -22,3 +22,7 @@ This is my [Progress Journal Website](https://bu-ie-582.github.io/fall21-meliken
 ## [Description of Homework 4](https://bu-ie-582.github.io/fall21-melikenursener/Homework%20Files/Homework%204/IE582_Fall21_Homework4.pdf)
 ## [Here](https://bu-ie-582.github.io/fall21-melikenursener/Homework%20Files/Homework%204/Homework%204.html) is the Jupyter Notebook file for the Homework 4.
 
+# Project
+## [Description of Project](https://bu-ie-582.github.io/fall21-melikenursener/Homework%20Files/Project/IE582_Fall21_Project.pdf)
+## [Here](https://bu-ie-582.github.io/fall21-melikenursener/Homework%20Files/Project/Project-Group3.html) Project report: Gender Prediction Using Clickstream Data
+## [Here](https://bu-ie-582.github.io/fall21-melikenursener/Homework%20Files/Project/project_akturk_sener.Ris) R-Codes: Gender Prediction Using Clickstream Data
